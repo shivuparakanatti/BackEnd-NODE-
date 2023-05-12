@@ -6,7 +6,6 @@ app.listen(port,function(){
     console.log('server is Succesfully running on',port)
 })
 
-
 const customers = [{
 
     id:1,name:'joe'
