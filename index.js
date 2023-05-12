@@ -7,7 +7,6 @@ app.listen(port,function(){
 })
 
 const customers = [{
-
     id:1,name:'joe'
 },{
 
