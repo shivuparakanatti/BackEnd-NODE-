@@ -10,7 +10,6 @@ const customers = [{
     id:1,name:'joe'
 },
 {
-
     id:2,name:'chandler'
 },{
 
