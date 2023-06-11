@@ -17,7 +17,6 @@ const customers = [{
 ]
 
 
-
 //Get method
 app.get('/customer',(req,res)=>{
     res.json(customers)
