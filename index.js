@@ -13,7 +13,7 @@ const customers = [{
 {
     id:2,name:'chandler'
 },{
-    
+
     id:3,name:'monica'
 }
 ]
